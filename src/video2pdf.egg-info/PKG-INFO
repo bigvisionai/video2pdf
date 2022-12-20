@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: video2pdf
+Version: 0.1.1
+Summary: Convert Video to a PDF file or a presentable slide.
+Author-email: "Kunal Dawn, LearnOpenCV" <spmallick@learnopencv.com>
+Project-URL: Homepage, https://github.com/bigvisionai/video2pdf
+Keywords: Annotation,Automated Annotation,OpenCV Annotate
+Classifier: Development Status :: 1 - Planning
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# video2pdf
+Convert Video to a PDF file or a presentable slide.

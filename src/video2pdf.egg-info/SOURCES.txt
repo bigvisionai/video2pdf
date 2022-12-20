@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/video2pdf.egg-info/PKG-INFO
+src/video2pdf.egg-info/SOURCES.txt
+src/video2pdf.egg-info/dependency_links.txt
+src/video2pdf.egg-info/requires.txt
+src/video2pdf.egg-info/top_level.txt

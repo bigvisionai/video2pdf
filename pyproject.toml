@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "video2pdf"
+version = "0.1.1"
+description = "Convert Video to a PDF file or a presentable slide."
+readme = "README.md"
+authors = [{ name = "Kunal Dawn, LearnOpenCV", email = "spmallick@learnopencv.com" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "Operating System :: OS Independent",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["Annotation", "Automated Annotation", "OpenCV Annotate"]
+dependencies = [
+    "opencv-python",
+    "img2pdf",
+]
+requires-python = ">=3.5"
+
+[project.urls]
+Homepage = "https://github.com/bigvisionai/video2pdf"
